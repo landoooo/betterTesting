@@ -6,7 +6,7 @@ import org.junit.Test;
 
 /**
  *
- * @author D-UK24FA
+ * @author fbarros
  *
  */
 public class HardToMaintainTestData {

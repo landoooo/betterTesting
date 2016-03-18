@@ -21,7 +21,7 @@ import org.fbarros.testpatterns.domain.Employee;
  * Examples taken from assertJ site:
  * 
  * http://joel-costigliola.github.io/assertj/assertj-core-features-highlight.html
- * @author D-UK24FA
+ * @author fbarros
  *
  */
 public class AssertJShowcase {
